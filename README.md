@@ -7,3 +7,5 @@
 ### Admin Login
    Username - admin123
    Password - admin123
+
+# Front-end is attarctive and user friendly
